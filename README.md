@@ -28,3 +28,21 @@
 
 - To run the server execute 
     `npm run dev`
+<!-- 
+
+
+
+1. Change the repository name on GitHub:
+Go to the GitHub repository page for your project (e.g., https://github.com/username/Flights).
+Navigate to the Settings tab.
+Under the Repository name section, change the name to flights-service (or whatever you prefer).
+GitHub will automatically update the URL of your repository.
+2. Update your local repository:
+After you've renamed the repository on GitHub, go to your local project directory on your machine (where the Flights repo is).
+
+Run the following command to update the remote URL:
+
+bash
+Copy
+git remote set-url origin https://github.com/username/flights-service.git
+This will update the origin remote to point to the new repository URL. -->
